@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Maps/L_Entry.umap",
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_GM.uasset",
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_PC.uasset"
+			]
+		}
+	]
+}
