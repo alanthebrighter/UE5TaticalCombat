@@ -1336,3 +1336,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.01-22.22.54:620][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 415 ms)
 [2024.01.01-22.22.54:621][806]AssetCheck: New page: Asset Save: L_Entry
 [2024.01.01-22.22.54:621][806]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/L_Entry.L_Entry
+[2024.01.01-22.24.43:282][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Core/BP_PAWN.BP_PAWN
+[2024.01.01-22.24.43:283][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.01-22.24.43:283][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.01-22.24.43:391][472]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2024.01.01-22.24.45:507][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.01-22.24.45:545][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Core/BP_PAWN" FILE="../../../../../GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_PAWN.uasset" SILENT=true
+[2024.01.01-22.24.45:547][710]LogSavePackage: Moving output files for package: /Game/Blueprints/Core/BP_PAWN
+[2024.01.01-22.24.45:547][710]LogSavePackage: Moving '../../../../../GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Saved/BP_PAWN87BB873D40D2A675C389298142DFEF65.tmp' to '../../../../../GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_PAWN.uasset'
+[2024.01.01-22.24.45:557][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 465 ms)
+[2024.01.01-22.24.45:558][710]AssetCheck: New page: Asset Save: BP_PAWN
+[2024.01.01-22.24.45:558][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Core/BP_PAWN.BP_PAWN
