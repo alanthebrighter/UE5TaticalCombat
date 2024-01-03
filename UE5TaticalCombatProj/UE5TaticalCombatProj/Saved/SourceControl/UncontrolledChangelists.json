@@ -8,7 +8,10 @@
 				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Maps/L_Entry.umap",
 				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_GM.uasset",
 				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_PC.uasset",
-				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_PAWN.uasset"
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/Core/BP_PAWN.uasset",
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/DebugMenu/W_DebugMenu.uasset",
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/DebugMenu/W_WidgetMenu.uasset",
+				"D:/GitHub/UE5TaticalCombat/UE5TaticalCombatProj/UE5TaticalCombatProj/Content/Blueprints/DebugMenu/BP_DebugMenu.uasset"
 			]
 		}
 	]
